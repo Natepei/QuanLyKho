@@ -1,8 +1,8 @@
 # QuanLyKho
 Quản lý kho điện thoại cao cấp
 
-Huỳnh Nhật Huy: code
+Huỳnh Nhật Huy: tạo form
 
 Trần Quốc Bảo: code
 
-Trần Duy Kha: tạo dự án
+Trần Duy Kha: code
